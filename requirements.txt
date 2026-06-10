@@ -2,10 +2,8 @@ lubridate
 dplyr
 ggplot2
 caret
-rpart
-rpart.plot
+C50
 randomForest
-xgboost
 Matrix
 yardstick
 recipes
