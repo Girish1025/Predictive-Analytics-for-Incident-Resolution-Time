@@ -34,9 +34,8 @@ Predictive-Analytics-for-Incident-Resolution-Time/
 │   ├── 02_eda_functions.R
 │   ├── 03_feature_engineering.R
 │   ├── 04_model_preparation.R
-│   ├── 05_regression_models.R
-│   ├── 06_classification_models.R
-│   └── 07_model_evaluation.R
+│   ├── 05_classification_models.R
+│   └── 06_model_evaluation.R
 ├── main.R
 ├── requirements.txt
 ├── README.md
